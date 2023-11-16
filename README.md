@@ -18,7 +18,7 @@ Projeto realizado para adquirir mais apredizado proposto pela Alura elaborando u
 <br>
 
 <p align="center">
-  <img alt="projeto doctorCare" src="./arquivos/preview.png" width="100%">
+  <img alt="projeto optimusTech" src="./arquivos/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
