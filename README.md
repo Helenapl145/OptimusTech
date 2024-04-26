@@ -2,7 +2,7 @@
 <h1 align="center"> Optimus Tech</h1>
 
 <p align="center">
-Projeto realizado para adquirir mais apredizado proposto pela Alura elaborando uma página. <br/>
+Projeto feito para a criação de um site empresarial utilizando das tencologias atuais e tendo como objetivo de utilizar o front end sem JS e da estrutura back end. <br/>
 </p>
 
 <p align="center">
@@ -18,14 +18,16 @@ Projeto realizado para adquirir mais apredizado proposto pela Alura elaborando u
 <br>
 
 <p align="center">
-  <img alt="projeto optimusTech" src="./arquivos/preview.png" width="100%">
+  <img alt="projeto optimusTech" src="./src/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- React
+- Tailwind
+- HTML
 - Github
 - Figma
 
