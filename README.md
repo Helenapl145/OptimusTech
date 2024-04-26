@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online]( https://helenapl145.github.io/OptimusTech/)
+- [Visite o projeto online](https://optimus-tech-five-blush.vercel.app/)
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
